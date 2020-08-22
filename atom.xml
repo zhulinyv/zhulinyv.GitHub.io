@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhulinyv.github.io</id>
     <title>小丫头片子的小天地</title>
-    <updated>2020-08-22T07:05:11.588Z</updated>
+    <updated>2020-08-22T07:08:28.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhulinyv.github.io"/>
     <link rel="self" href="https://zhulinyv.github.io/atom.xml"/>
@@ -10,4 +10,14 @@
     <logo>https://zhulinyv.github.io/images/avatar.png</logo>
     <icon>https://zhulinyv.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小丫头片子的小天地</rights>
+    <entry>
+        <title type="html"><![CDATA[我的第一篇文章]]></title>
+        <id>https://zhulinyv.github.io/post/wo-de-di-yi-pian-wen-zhang/</id>
+        <link href="https://zhulinyv.github.io/post/wo-de-di-yi-pian-wen-zhang/">
+        </link>
+        <updated>2020-08-22T07:07:28.000Z</updated>
+        <content type="html"><![CDATA[<p>这是我用GitHub写的第一篇文章🙂<br>
+<img src="https://zhulinyv.github.io/post-images/1598080084189.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
 </feed>
