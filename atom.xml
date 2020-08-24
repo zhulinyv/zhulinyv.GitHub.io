@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhulinyv.github.io</id>
     <title>小丫头片子的小天地</title>
-    <updated>2020-08-23T07:41:39.760Z</updated>
+    <updated>2020-08-24T02:36:43.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhulinyv.github.io"/>
     <link rel="self" href="https://zhulinyv.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://zhulinyv.github.io/images/avatar.png</logo>
     <icon>https://zhulinyv.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小丫头片子的小天地</rights>
+    <entry>
+        <title type="html"><![CDATA[破解价格不菲的Adobe竟如此简单！！]]></title>
+        <id>https://zhulinyv.github.io/post/po-jie-jie-ge-bu-fei-de-adobe-jing-ru-ci-jian-dan/</id>
+        <link href="https://zhulinyv.github.io/post/po-jie-jie-ge-bu-fei-de-adobe-jing-ru-ci-jian-dan/">
+        </link>
+        <updated>2020-08-24T02:04:14.000Z</updated>
+        <content type="html"><![CDATA[<p>Windows：<br>
+准备软件<strong>GenP v2.6</strong><br>
+<img src="https://zhulinyv.github.io/post-images/1598234890414.png" alt="" loading="lazy"><br>
+如果你是默认安装位置，直接点击CC2019/2020就可以啦！<br>
+如果不是，找到软件目录选择要破解的文件就可以啦！如果找不到？搜索框是很好用的辅助工具哦！<br>
+是不是很简单！？<br>
+配上一张效果图：<br>
+<img src="https://zhulinyv.github.io/post-images/1598236576509.png" alt="" loading="lazy"></p>
+<p>Mac：<br>
+准备软件AdobeZii<br>
+<img src="https://zhulinyv.github.io/post-images/1598235218551.jpg" alt="" loading="lazy"><br>
+虽然本人并没有用过Mac，但是这个网站https://macwk.com/article/adobe-zii 似乎提供了准确的下载地址和方法！看了一下，好像不难叭？</p>
+<p><strong>GenP v2.6</strong>不是很好找，网上现在大多都是v2.5所以在此提供一个下载链接：<br>
+https://alpinerescueteam-my.sharepoint.com/:u:/g/personal/zhulinyv_mail_anandaigueschools_org/EfbmyNfx-klHn7LEtWrddpcB3Q1p8HgVG1hOv-UYB8WJow?e=KtYmu2<br>
+这个是我的OneDrive链接，但是你依然可以<strong>直连下载</strong>！！不需要……<br>
+其中包含了v2.4和v2.6两个版本，下载解压后（解压密码：<strong>@vposy</strong>）找到v2.6的目录，找到Runme双击运行就可以啦！如果主屏幕有问题，可以去v2.4的目录里找到主屏幕修复工具，双击解压运行就可以！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[往期文章]]></title>
         <id>https://zhulinyv.github.io/post/wang-qi-wen-zhang/</id>
