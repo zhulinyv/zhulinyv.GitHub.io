@@ -992,3 +992,19 @@ td {
         font-family: -apple-system,BlinkMacSystemFont,'Helvetica Neue','PingFang SC','Hiragino Sans GB','Droid Sans Fallback','Microsoft YaHei',sans-serif;
       }
     
+      .main {
+        background: #212529;
+      }
+    
+      body {
+        background: #212529;
+      }
+    
+      body {
+        color: #ffffff;
+      }
+    
+      a {
+        color: #228be6;
+      }
+    
