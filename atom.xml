@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhulinyv.github.io</id>
     <title>小丫头片子的小天地</title>
-    <updated>2020-08-24T03:32:01.247Z</updated>
+    <updated>2020-08-25T11:35:04.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhulinyv.github.io"/>
     <link rel="self" href="https://zhulinyv.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://zhulinyv.github.io/images/avatar.png</logo>
     <icon>https://zhulinyv.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小丫头片子的小天地</rights>
+    <entry>
+        <title type="html"><![CDATA[利用IDM提高你的下载效率！]]></title>
+        <id>https://zhulinyv.github.io/post/c46ujfeVQ/</id>
+        <link href="https://zhulinyv.github.io/post/c46ujfeVQ/">
+        </link>
+        <updated>2020-08-25T10:52:47.000Z</updated>
+        <content type="html"><![CDATA[<p>IDM：Internet download manager。一款国外的下载器。<br>
+利用提高线程数来提高下载速度！支持从剪贴板进行批量下载！支持断点传输！……<br>
+更重要的是支持捕获网页上的音视频！体积小巧，功能强大，何乐而不为呢？<br>
+界面简洁清爽，Windows深色主题更是别致！</p>
+<p>浅色：<img src="https://zhulinyv.github.io/post-images/1598353917965.png" alt="" loading="lazy"></p>
+<p>深色：<img src="https://zhulinyv.github.io/post-images/1598353930038.png" alt="" loading="lazy"></p>
+<p>官网：http://www.internetdownloadmanager.com/<br>
+这么好用的应用当然不会免费啦，不过这里提供一个破解补丁！<br>
+https://alpinerescueteam-my.sharepoint.com/:u:/g/personal/zhulinyv_mail_anandaigueschools_org/EZsL7sb44QNMvgJsPn4J5oMBnfC1Ur2cQl0oEyxEhEmjTA?e=SLtbKW</p>
+<p>破解后有注册弹窗？<br>
+删了安装目录下（一般在：C:\ProgramFiles (x86)\Internet Download Manager）的IDMGrHlp.exe这个文件然后新建文本空文件，重命名为IDMGrHlp.exe，便再也不会有提示了！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[破解价格不菲的Adobe竟如此简单！！]]></title>
         <id>https://zhulinyv.github.io/post/po-jie-jie-ge-bu-fei-de-adobe-jing-ru-ci-jian-dan/</id>
