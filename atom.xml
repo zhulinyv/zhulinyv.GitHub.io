@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhulinyv.github.io</id>
-    <title>小丫头片子的小天地</title>
-    <updated>2020-09-05T03:45:07.205Z</updated>
+    <title>可爱的小丫头片子酱的肥宅快乐水妹汁加工厂</title>
+    <updated>2020-09-13T02:32:48.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhulinyv.github.io"/>
     <link rel="self" href="https://zhulinyv.github.io/atom.xml"/>
-    <subtitle>众多软件中，总有一款适合你！</subtitle>
+    <subtitle>这里，我们不止生产妹汁！
+众多软件中，总有一款适合你！</subtitle>
     <logo>https://zhulinyv.github.io/images/avatar.png</logo>
     <icon>https://zhulinyv.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 小丫头片子的小天地</rights>
+    <rights>All rights reserved 2020, 可爱的小丫头片子酱的肥宅快乐水妹汁加工厂</rights>
     <entry>
         <title type="html"><![CDATA[拯救你的网盘！！]]></title>
         <id>https://zhulinyv.github.io/post/nY9WSPuut/</id>
