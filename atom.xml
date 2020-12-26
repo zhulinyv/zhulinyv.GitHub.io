@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zhulinyv.github.io</id>
+    <id>http://localhost:4000</id>
     <title>可爱的小丫头片子酱的肥宅快乐水妹汁加工厂股份无限公司</title>
-    <updated>2020-12-26T08:07:15.037Z</updated>
+    <updated>2020-12-26T08:54:03.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zhulinyv.github.io"/>
-    <link rel="self" href="https://zhulinyv.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>这里，我们不止生产妹汁！
 众多软件中，总有一款适合你！</subtitle>
-    <logo>https://zhulinyv.github.io/images/avatar.png</logo>
-    <icon>https://zhulinyv.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2020, 可爱的小丫头片子酱的肥宅快乐水妹汁加工厂股份无限公司</rights>
     <entry>
         <title type="html"><![CDATA[落下的文章。。]]></title>
-        <id>https://zhulinyv.github.io/post/DZ8NJh8ZP/</id>
-        <link href="https://zhulinyv.github.io/post/DZ8NJh8ZP/">
+        <id>http://localhost:4000/post/DZ8NJh8ZP/</id>
+        <link href="http://localhost:4000/post/DZ8NJh8ZP/">
         </link>
         <updated>2020-11-28T05:18:42.000Z</updated>
         <content type="html"><![CDATA[<p>近期较忙，网站未更，现在补上。。</p>
@@ -80,17 +80,17 @@ Windows也要美美哒！<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[度盘合集]]></title>
-        <id>https://zhulinyv.github.io/post/zDwZIv1ok/</id>
-        <link href="https://zhulinyv.github.io/post/zDwZIv1ok/">
+        <id>http://localhost:4000/post/zDwZIv1ok/</id>
+        <link href="http://localhost:4000/post/zDwZIv1ok/">
         </link>
         <updated>2020-11-24T01:24:49.000Z</updated>
         <content type="html"><![CDATA[<p>读盘限速不用愁！往下看！！<br>
 <a href="https://zhulinyv.github.io/post/nY9WSPuut/">上一期：拯救你的网盘！！</a></p>
 <p><a href="https://kinhdown.kinh.cc/">Kinhdown：Pandownload之后的一款优秀下载工具</a><br>
 强制提速快到起飞！<br>
-<img src="https://zhulinyv.github.io/post-images/1606181711729.png" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1606181711729.png" alt="" loading="lazy"></p>
 <p><a href="https://github.com/PanDownloadServer/Server/">Pandownload（卢本伟修改版）</a>：看起来还不错！<br>
-<img src="https://zhulinyv.github.io/post-images/1606183780586.png" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1606183780586.png" alt="" loading="lazy"><br>
 来自小丫头片子的QQ（1797213784）空间：<br>
 佳软推荐：<br>
 百度网盘不限速了？打开这个体验会员的感觉！<br>
@@ -100,14 +100,14 @@ Windows也要美美哒！<br>
 注意：度盘客户端要最新。中途不要暂停，暂停再继续下载速度会较慢。<br>
 经过一系列调查，发现这有可能是热门资源的p2p加速，部分极其冷门资源管理器可能提速效果不大，可以尝试关闭提速再打开再试。<br>
 如果依然不能解决问题，还是换上一期推荐的的kinhdown叭。<br>
-<img src="https://zhulinyv.github.io/post-images/1606181849365.png" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1606181849365.png" alt="" loading="lazy"></p>
 <p>度盘下载还用愁嘛？？！</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[拯救你的网盘！！]]></title>
-        <id>https://zhulinyv.github.io/post/nY9WSPuut/</id>
-        <link href="https://zhulinyv.github.io/post/nY9WSPuut/">
+        <id>http://localhost:4000/post/nY9WSPuut/</id>
+        <link href="http://localhost:4000/post/nY9WSPuut/">
         </link>
         <updated>2020-09-05T02:08:30.000Z</updated>
         <content type="html"><![CDATA[<p>百度杀死一个PD，会有千百万个PD站起来！PD是杀不完的，因为正义永远存在！</p>
@@ -126,20 +126,20 @@ Internet Explorer (暂不支持)<br>
 其它浏览器 (需要离线安装包)<br>
 2.去<a href="https://greasyfork.org/zh-CN/">这里</a>下载几个度盘直链下载脚本。<br>
 3.打开度盘首页并登录，发现上面是不是多了几个按钮？（下载助手之类的）<br>
-<img src="https://zhulinyv.github.io/post-images/1599276211737.png" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1599276211737.png" alt="" loading="lazy"><br>
 4.然后，就可以利用它提取到选中文件的直链下载链接或者aria链接（需要用aria2，ariaNG或Xdown下载）了！<br>
 附上一张idm下载速度和xdown下载速度对比图！<br>
-<img src="https://zhulinyv.github.io/post-images/1599276467731.png" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1599276467731.png" alt="" loading="lazy"></p>
 <p>注：200MB以下的文件建议提取API链接或者直链链接用IDM下载，大文件和批量下载建议用Xdown下载。</p>
 <p>当然，你支持百度的话也可以用客户端下载哦，前提是……<br>
-<img src="https://zhulinyv.github.io/post-images/1599277440220.png" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1599277440220.png" alt="" loading="lazy"><br>
 别问我这客户端下载速度经历了什么😊3MB/S的下载速度！！这个社会就是如此不公！</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[利用IDM提高你的下载效率！]]></title>
-        <id>https://zhulinyv.github.io/post/c46ujfeVQ/</id>
-        <link href="https://zhulinyv.github.io/post/c46ujfeVQ/">
+        <id>http://localhost:4000/post/c46ujfeVQ/</id>
+        <link href="http://localhost:4000/post/c46ujfeVQ/">
         </link>
         <updated>2020-08-25T10:52:47.000Z</updated>
         <content type="html"><![CDATA[<p>上一期的硬盘直装版adobe（win+mac）度盘链接先补在这😂<br>
@@ -148,8 +148,8 @@ Internet Explorer (暂不支持)<br>
 利用提高线程数来提高下载速度！支持从剪贴板进行批量下载！支持断点传输！……<br>
 更重要的是支持捕获网页上的音视频！体积小巧，功能强大，何乐而不为呢？<br>
 界面简洁清爽，Windows深色主题更是别致！</p>
-<p>浅色：<img src="https://zhulinyv.github.io/post-images/1598353917965.png" alt="" loading="lazy"></p>
-<p>深色：<img src="https://zhulinyv.github.io/post-images/1598353930038.png" alt="" loading="lazy"></p>
+<p>浅色：<img src="http://localhost:4000/post-images/1598353917965.png" alt="" loading="lazy"></p>
+<p>深色：<img src="http://localhost:4000/post-images/1598353930038.png" alt="" loading="lazy"></p>
 <p>官网：http://www.internetdownloadmanager.com/<br>
 这么好用的应用当然不会免费啦，不过这里提供一个破解补丁！<br>
 https://alpinerescueteam-my.sharepoint.com/:u:/g/personal/zhulinyv_mail_anandaigueschools_org/EZsL7sb44QNMvgJsPn4J5oMBnfC1Ur2cQl0oEyxEhEmjTA?e=SLtbKW</p>
@@ -160,21 +160,21 @@ https://alpinerescueteam-my.sharepoint.com/:u:/g/personal/zhulinyv_mail_anandaig
     </entry>
     <entry>
         <title type="html"><![CDATA[破解价格不菲的Adobe竟如此简单！！]]></title>
-        <id>https://zhulinyv.github.io/post/po-jie-jie-ge-bu-fei-de-adobe-jing-ru-ci-jian-dan/</id>
-        <link href="https://zhulinyv.github.io/post/po-jie-jie-ge-bu-fei-de-adobe-jing-ru-ci-jian-dan/">
+        <id>http://localhost:4000/post/po-jie-jie-ge-bu-fei-de-adobe-jing-ru-ci-jian-dan/</id>
+        <link href="http://localhost:4000/post/po-jie-jie-ge-bu-fei-de-adobe-jing-ru-ci-jian-dan/">
         </link>
         <updated>2020-08-24T02:04:14.000Z</updated>
         <content type="html"><![CDATA[<p>Windows：<br>
 准备软件<strong>GenP v2.6</strong><br>
-<img src="https://zhulinyv.github.io/post-images/1598234890414.png" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1598234890414.png" alt="" loading="lazy"><br>
 如果你是默认安装位置，直接点击CC2019/2020就可以啦！<br>
 如果不是，找到软件目录选择要破解的文件就可以啦！如果找不到？搜索框是很好用的辅助工具哦！<br>
 是不是很简单！？<br>
 配上一张效果图：<br>
-<img src="https://zhulinyv.github.io/post-images/1598236576509.png" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1598236576509.png" alt="" loading="lazy"></p>
 <p>Mac：<br>
 准备软件AdobeZii<br>
-<img src="https://zhulinyv.github.io/post-images/1598235218551.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1598235218551.jpg" alt="" loading="lazy"><br>
 虽然本人并没有用过Mac，但是这个网站https://macwk.com/article/adobe-zii 似乎提供了准确的下载地址和方法！看了一下，好像不难叭？</p>
 <p><strong>GenP v2.6</strong>不是很好找，网上现在大多都是v2.5所以在此提供一个下载链接：<br>
 https://alpinerescueteam-my.sharepoint.com/:u:/g/personal/zhulinyv_mail_anandaigueschools_org/EfbmyNfx-klHn7LEtWrddpcB3Q1p8HgVG1hOv-UYB8WJow?e=KtYmu2<br>
@@ -184,8 +184,8 @@ https://alpinerescueteam-my.sharepoint.com/:u:/g/personal/zhulinyv_mail_anandaig
     </entry>
     <entry>
         <title type="html"><![CDATA[往期文章]]></title>
-        <id>https://zhulinyv.github.io/post/wang-qi-wen-zhang/</id>
-        <link href="https://zhulinyv.github.io/post/wang-qi-wen-zhang/">
+        <id>http://localhost:4000/post/wang-qi-wen-zhang/</id>
+        <link href="http://localhost:4000/post/wang-qi-wen-zhang/">
         </link>
         <updated>2020-08-22T08:50:06.000Z</updated>
         <content type="html"><![CDATA[<p>更多更详细的往期文章请看我的QQ空间哦：QQ号：1797213784</p>
@@ -316,8 +316,8 @@ https://greasyfork.org/zh-CN/scripts/370634-%E6%87%92%E4%BA%BA%E4%B8%93%E7%94%A8
     </entry>
     <entry>
         <title type="html"><![CDATA[欢迎来到我的加工厂]]></title>
-        <id>https://zhulinyv.github.io/post/wo-de-di-yi-pian-wen-zhang/</id>
-        <link href="https://zhulinyv.github.io/post/wo-de-di-yi-pian-wen-zhang/">
+        <id>http://localhost:4000/post/wo-de-di-yi-pian-wen-zhang/</id>
+        <link href="http://localhost:4000/post/wo-de-di-yi-pian-wen-zhang/">
         </link>
         <updated>2020-08-22T07:07:28.000Z</updated>
         <content type="html"><![CDATA[<p>这是我用GitHub写的第一篇文章🙂</p>
@@ -335,7 +335,7 @@ Telephone：要不试试发伊妹儿？<br>
 GitHub：zhulinyv2005@outlook.com（zhulinyv）</p>
 <p>这么多联系方式，不会丢叭？😶</p>
 <p>声明：本网站推荐的任何应用软件都与作者无关，因此不承担任何法律责任。<br>
-<img src="https://zhulinyv.github.io/post-images/1598080084189.jpg" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1598080084189.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
